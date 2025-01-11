@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: league-history
+  datasource:
+    url: jdbc:h2:mem:srw2024
+    driver-class-name: org.h2.Driver
+    username: sa
+    password: '4116'
+  h2:
+    console:
+      enabled: true
