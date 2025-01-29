@@ -1,4 +1,4 @@
-📚 Sobre o Projeto
+Sobre o Projeto
 
 Neste repositório, você encontrará o código-fonte de uma REST API e seu respectivo Frontend (pasta /docs). Este projeto é construído com Java 21 e Spring Boot 3.
 
