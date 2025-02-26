@@ -9,3 +9,7 @@ spring:
   h2:
     console:
       enabled: true
+
+openai:
+  base-url: https://api.openai.com
+  api-key: ${OPENAI_API_KEY}
